@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-## Name: ROHITH S
+## Name: S.ROHITH
 ## Reg No: 25012185
 # Date: 24-09-2025
 ## Problem Title
